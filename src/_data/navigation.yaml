@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: Cycling
     url: "#"
-  - text: Menu Two
+  - text: Snow Sports
     url: "#"
-  - text: Menu Three
+  - text: Bouldering
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
