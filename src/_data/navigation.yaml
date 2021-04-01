@@ -1,9 +1,9 @@
 items:
   - text: Cycling
-    url: "#"
+    url: /cycling
   - text: Snow Sports
-    url: "#"
+    url: /snowsports
   - text: Bouldering
-    url: "#"
+    url: /bouldering
   - text: Blog
     url: /blog
