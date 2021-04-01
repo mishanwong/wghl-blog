@@ -7,3 +7,5 @@ items:
     url: /bouldering
   - text: Blog
     url: /blog
+  - about: About
+    url: /about
